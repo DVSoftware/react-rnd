@@ -3,8 +3,8 @@
 import * as React from 'react';
 import { findDOMNode } from 'react-dom';
 import Draggable from 'react-draggable-rotate';
-import Resizable from 're-resizable-rotate';
-import type { ResizeDirection, ResizeCallback, ResizeStartCallback } from 're-resizable-rotate';
+import Resizable from 're-resizable-rotate/src/index';
+import type { ResizeDirection, ResizeCallback, ResizeStartCallback } from 're-resizable-rotate/src/index';
 
 // console.log('Draggable', Draggable.DraggableAlignGuide);
 export type Grid = [number, number];
