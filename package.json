@@ -90,7 +90,7 @@
     "fixture": "./fixture.html"
   },
   "dependencies": {
-    "re-resizable-rotate": "0.0.9",
+    "re-resizable-rotate": "DVSoftware/re-resizable",
     "react-draggable-rotate": "0.0.21"
   }
 }
